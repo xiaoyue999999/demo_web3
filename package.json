@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.4.0",
+    "antd": "^5.28.0",
+    "less": "^4.4.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "web3": "^4.16.0"
